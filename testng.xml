@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/ApiTestEndToEnd/TestNew">
+        <classes>
+            <class name="BookStore.createUser">
+            <methods>
+                <include name="createUser"/>
+            </methods>
+            </class>
+            <class name="userManagement.GetUser">
+                <methods>
+                    <include name="getUserData"/>
+                    <include name="verifyResponseHasItems"/>
+                    <include name="verifyResponseHasSize"/>
+                    <include name="verifyResponseContains"/>
+                    <include name="verifyResponseFirst"/>
+                    <include name="testQueryParam"/>
+                    <include name="testQueryParam2"/>
+                    <include name="testHeader"/>
+                    <include name="testCookie"/>
+                    <include name="extractCookie"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
