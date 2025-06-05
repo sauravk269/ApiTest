@@ -1,0 +1,9 @@
+{
+  "orderId": "{{ORDER_ID}}",
+  "status": "CREATED",
+  "destination": "CUST001",
+  "items": [
+    { "sku": "SKU123", "quantity": 2 },
+    { "sku": "SKU456", "quantity": 1 }
+  ]
+}

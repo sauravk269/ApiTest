@@ -1,0 +1,1401 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "bookId": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        },
+        "coverFileName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "bookId",
+        "title",
+        "author",
+        "category",
+        "price",
+        "coverFileName"
+      ]
+    }
+  ]
+}
