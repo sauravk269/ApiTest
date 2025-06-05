@@ -15,12 +15,6 @@ import static com.github.tomakehurst.wiremock.client.WireMock.*;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
 
-import io.restassured.RestAssured;
-
-
-import io.restassured.response.Response;
-
-
 
 public class WireMockManager {
     public static WireMockServer wiremockServer;
